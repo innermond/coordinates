@@ -17,5 +17,8 @@
             "type": "MIT",
             "url": "https://github.com/innermond/coordinates/blob/master/MIT-LICENSE.txt"
         }
-    ]
+    ],
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
 }
