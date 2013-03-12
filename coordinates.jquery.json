@@ -4,7 +4,7 @@
 	"description": "jQuery plugin for vizual indication when mouse walking on html table cells.",
     "keywords": [
         "coordinates", 
-        "html table"
+        "htmltable"
     ],
     "version": "0.9.1",
     "author": {
