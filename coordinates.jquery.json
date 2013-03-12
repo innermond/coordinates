@@ -1,0 +1,29 @@
+{
+	"name" : "coordinates",
+	"title" : "Coordinates for table cells",
+	"description": "jQuery plugin for vizual indication when mouse walking on html table cells.",
+    "keywords": [
+        "coordinates", 
+        "html table"
+    ],
+    "version": "1.0.0",
+    "author": {
+            "name": "Gabriel Braila",
+            "email": "innermond@yahoo.com",
+            "url": "http://volt-media.ro"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/jquery/jquery-color/issues",
+    "homepage": "https://github.com/innermond/coordinates",
+    "docs": "https://github.com/jquery/jquery-color",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
+}

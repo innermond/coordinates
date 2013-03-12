@@ -40,7 +40,7 @@
 					var 
 					jtd = $(this),
 					col = jtd.index(),
-					row = jtd.parent().index() + 1,// because hd cell are an extra row
+					row = jtd.parent().index() + 1,// because header cells are an extra row
  
 					th = that.find('th').eq(col),		
 					tr = that.find('tr').eq(row).find('td:first');
