@@ -1,10 +1,12 @@
 {
 	"name" : "coordinates",
 	"title" : "Coordinates for table cells",
-	"description": "jQuery plugin for vizual indication when mouse walking on html table cells.",
+	"description": "jQuery plugin for vizual indication when mouse-walking on html table cells.",
     "keywords": [
-        "coordinates", 
-        "htmltable"
+        "coordinates",
+        "mouse", 
+        "cursor",
+        "table"
     ],
     "version": "0.9.2",
     "author": {
