@@ -1,6 +1,6 @@
 {
 	"name" : "coordinates",
-	"title" : "Coordinates for table cells",
+	"title" : "vizual coordinates for table cells",
 	"description": "jQuery plugin for vizual indication when mouse-walking on html table cells.",
     "keywords": [
         "coordinates",
